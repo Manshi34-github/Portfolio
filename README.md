@@ -16,7 +16,7 @@ A clean and responsive personal portfolio website built using **React.js** and *
 
 ## Live Demo
 
-[Visit My Portfolio](https://portfolio-psi-ochre-39.vercel.app/)
+[Visit My Portfolio](https://portfolio/)
 
 ## Features
 
