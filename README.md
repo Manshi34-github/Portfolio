@@ -24,9 +24,8 @@ A clean and responsive personal portfolio website built using **React.js** and *
 - 💼 Projects with GitHub/demo links
 - 🧠 Skills & Tools overview
 - 📑 Resume download
-- 📬 Contact form
-- 🌙 Light/Dark Mode (optional if you’ve added it)
-- 📱 Fully responsive design (mobile/tablet/desktop)
+- 📬 Contact 
+
 
 ## Tech Stack
 
