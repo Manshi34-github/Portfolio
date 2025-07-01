@@ -1,4 +1,4 @@
-** Hi, I’m Manshi Kumari, a recent graduate from IIT BHU with a specialization in Civil Engineering and Structural Analysis. Over the years, I’ve developed a strong passion for data analytics, machine learning, and building impactful digital solutions** .
+**Hi, I’m Manshi Kumari, a recent graduate from IIT BHU with a specialization in Civil Engineering and Structural Analysis. Over the years, I’ve developed a strong passion for data analytics, machine learning, and building impactful digital solutions** .
 
 I enjoy transforming complex problems into simple, insightful stories using tools like Python, SQL, Excel, and Tableau. Whether it’s predicting hotel booking cancellations, segmenting customers using unsupervised learning, or analyzing supermall data — I love diving into data to uncover meaningful patterns.
 
